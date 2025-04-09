@@ -135,16 +135,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "about me",
+    "title": "Nathaniel Sparks",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "title: “Nathaniel Sparks” subtitle: “My Data Science Portfolio” format: html"
   },
   {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
+    "objectID": "index.html#resume",
+    "href": "index.html#resume",
+    "title": "Nathaniel Sparks",
+    "section": "📄 Resume",
+    "text": "📄 Resume\n👉 View my resume"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Nathaniel Sparks",
+    "section": "🧠 Featured Projects",
+    "text": "🧠 Featured Projects\n\nBoard Game Database (ongoing)\nDesigned a SQL schema to track board games, solo modes, mechanics, and monthly rankings."
+  },
+  {
+    "objectID": "index.html#connect-with-me",
+    "href": "index.html#connect-with-me",
+    "title": "Nathaniel Sparks",
+    "section": "🔗 Connect With Me",
+    "text": "🔗 Connect With Me\n\nGitHub\n\nLinkedIn\n\n📧 w4rren86@gmail.com"
   },
   {
     "objectID": "Projects/project1.html",
